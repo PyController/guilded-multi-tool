@@ -28,6 +28,7 @@ The best multi tool for guilded.gg, a single tool that includes all that u need!
 
 ## ⚠️ DISCLAIMER / NOTES
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
+Use low threads with `Realistic gen`, depends of the quality of ur proxys.
 
 ## ✨ Issues / Doubts
 
