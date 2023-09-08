@@ -4,7 +4,7 @@ The best multi tool for guilded.gg, a single tool that includes all that u need!
 
 ## 🎥 Use case/ Preview:
 
-![Guilded](https://mega.nz/file/Jwh2xK5Y#DYjE0oH4vzxIShTtyslo4zWI7M0BCIzEikg8Pc3ijxU)
+![Guilded](https://cdn.discordapp.com/attachments/1140404163889602620/1149726081859977326/PyGG_on_Top.mp4)
 
 ## 💥 Features
 - Intuitive menu
